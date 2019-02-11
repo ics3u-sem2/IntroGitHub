@@ -1,15 +1,52 @@
-# IntroGitHub - ICS3U - Sem2
+ICS3U-Sem2
+ICS3U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
 
-ICS3U Sem2 2018-19 WCI - Ms. Harris added to branches the instructions for individual team assignments - each team has been given a different song to input - merge and sort out following a specific set of instructions.
+You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
 
-Team A has been given "There was an old lady" https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly
+Please do this ins the proper Order (this is imperative)
 
-Team B has been given "Here We Go Round THje Mulberry Bush" https://en.wikipedia.org/wiki/Here_We_Go_Round_the_Mulberry_Bush
+Person 1 - type or cut and paste in the following - with spaces between each verse: There was an old lady who swallowed a fly;
 
-Team C has been given "Michael Finnegan" https://en.wikipedia.org/wiki/Michael_Finnegan_(song)
+I don't know why she swallowed a fly - perhaps she'll die! There was an old lady who swallowed a spider; That wriggled and jiggled and tickled inside her!
 
-Team D has been given "The Twelve Days of Christmas" https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)
+She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die!
 
-Team E has been given "Head and Shoulders, Knees and Toes" https://en.wikipedia.org/wiki/Head,_Shoulders,_Knees_and_Toes
+Commit - Message should be "I've begun, here is the first section" and Your_Name.
 
-Team F has been given "If You're Happy and you Know it" https://en.wikipedia.org/wiki/If_You%27re_Happy_and_You_Know_It
+Person 2 - type or cut and paste in the following - with spaces between each verse: (Wait until person 1 has completed their part and committed.)
+
+There was an old lady that swallowed a dog; What a hog, to swallow a dog!
+
+She swallowed the dog to catch the cat, She swallowed the cat to catch the bird, She swallowed the bird to catch the spider; That wriggled and jiggled and tickled inside her! She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die!
+
+
+
+Person 3 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 and 2 have completed their part AND committed, you can begin.)
+
+There was an old lady who swallowed a cow; I don't know how she swallowed a cow!
+
+She swallowed the cow to catch the goat, She swallowed the goat to catch the dog, She swallowed the dog to catch the cat, She swallowed the cat to catch the bird, She swallowed the bird to catch the spider; That wriggled and jiggled and tickled inside her! She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die! There was an old lady who swallowed a horse;
+
+...She died, of course!
+
+Commit - Message shoud be "We've finished!"
+
+Person 4 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 has completed, you can begin.)
+
+There was an old lady who swallowed a goat; She just opened her throat and swallowed a goat!
+
+She swallowed the goat to catch the dog, She swallowed the dog to catch the cat, She swallowed the cat to catch the bird, She swallowed the bird to catch the spider; That wriggled and jiggled and tickled inside her! She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die!
+
+Commit - Message should be "I've added the goat" and Your_Name
+
+Person 5 - type or cut and paste in the following - with spaces between each verse: (Wait until person 2 have completed their part and person 3 has begun, they do not need to be finished.)
+
+There was an old lady who swallowed a bird; How absurd to swallow a bird!
+
+She swallowed the bird to catch the spider; That wriggled and jiggled and tickled inside her! She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die!
+
+There was an old lady who swallowed a cat; Imagine that! She swallowed a cat!
+
+She swallowed the cat to catch the bird, She swallowed the bird to catch the spider; That wriggled and jiggled and tickled inside her! She swallowed the spider to catch the fly; I don't know why she swallowed a fly - Perhaps she'll die!
+
+Commit - Message should be "Person 5 has finished - we are done, maybe!" and Your_Name.
