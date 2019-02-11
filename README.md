@@ -1,8 +1,12 @@
+ BranchF
 # IntroGitHub - ICS3U - Sem2 - BranchF Team F
+=======
+
 ICS3U Sem2 2018-19 WCI - Ms. Harris
 
 Please see specific instructions in Google Classroom too.
 
+BranchF
 You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
 
 Long ago, when I was in Girl Guides we did a slightly different variation than the one from Wikipedia that I gave you - here it is...
@@ -110,3 +114,4 @@ If you're happy and you know it, shout, 'Hooray'! If you're happy and you know i
 If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
 
 Commit - Message should be "Person 5 has finished - we are done, maybe!" and Your_Name.
+
