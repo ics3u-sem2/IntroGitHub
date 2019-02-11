@@ -1,17 +1,29 @@
-# IntroGitHub - ICS3U - Sem2
+# IntroGitHub - ICS3U - Sem2 - BranchD - Team D
 
-ICS3U Sem2 2018-19 WCI - Ms. Harris has added individual team instructions to branches for individual team assignments - each team has been given a different song to input - merge and sort out following a specific set of instructions.
+ICS3U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
 
-You should go to your branch to complete your task.
+You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
 
-Team A has been given "There was an old lady" https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly
+Please do this in the proper Order (this is imperative)
 
-Team B has been given "Here We Go Round THje Mulberry Bush" https://en.wikipedia.org/wiki/Here_We_Go_Round_the_Mulberry_Bush
+Person 1 - type or cut and paste in the following lines, as lines:
 
-Team C has been given "Michael Finnegan" https://en.wikipedia.org/wiki/Michael_Finnegan_(song)
+There was an old man named Michael Finn-egan, He had whiskers on his chin-igan, They fell out and grew back in-again, Poor old Michael Finnegan. Begin-again
 
-Team D has been given "The Twelve Days of Christmas" https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)
+Commit - Message should be "I've begun, here is the first section" and Your_Name.
 
-Team E has been given "Head and Shoulders, Knees and Toes" https://en.wikipedia.org/wiki/Head,_Shoulders,_Knees_and_Toes
+Person 2 - type or cut and paste in the following lines: (Wait until person 1 has completed their part and committed.)
 
-Team F has been given "If You're Happy and you Know it" https://en.wikipedia.org/wiki/If_You%27re_Happy_and_You_Know_It
+There was an old man called Michael Finn-egan, Ran a race and tried to win again. He fell down and bumped his shin again. Poor old Michael Finnegan. Begin-again.
+
+Person 3 - type or cut and paste in the following lines: (As long as person 1 and 2 have completed their part AND person 1 committed, you can begin.)
+
+There was an old man called Michael Finn-egan, he grew fat and then grew thin again. Then he died and had to begin again. And that’s the end of Michael Finnegan.
+
+Commit - Message shoud be "I'm finished!" and Your_name
+
+Person 4 - type or cut and paste in the following lines: (Wait until person 1 has completed their part.)
+
+There was an old man called Michael Finn-egan, Climbed a tree and barked his shin-igan, Took off several yards of skin-igan, Poor old Michael Finnegan. Begin-again (repeat)
+
+Commit - Message should be "Person 4 has finished - we are done, maybe!" and Your_Name.
