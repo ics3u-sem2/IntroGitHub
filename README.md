@@ -1,17 +1,53 @@
-# IntroGitHub - ICS3U - Sem2
+# IntroGitHub - ICS3U - Sem2 Branch C - Team C
 
-ICS3U Sem2 2018-19 WCI - Ms. Harris has added individual team instructions to branches for individual team assignments - each team has been given a different song to input - merge and sort out following a specific set of instructions.
+ICS3U Sem2 2018-19 WCI - Ms. Harris ICS3U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
 
-You should go to your branch to complete your task.
+You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
 
-Team A has been given "There was an old lady" https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly
+Please do this ins the proper Order (this is imperative)
 
-Team B has been given "Here We Go Round THje Mulberry Bush" https://en.wikipedia.org/wiki/Here_We_Go_Round_the_Mulberry_Bush
+Person 1 - type or cut and paste in the following - with spaces between each verse:
 
-Team C has been given "Michael Finnegan" https://en.wikipedia.org/wiki/Michael_Finnegan_(song)
+On the first day of Christmas my true love sent to me A partridge in a pear tree.
 
-Team D has been given "The Twelve Days of Christmas" https://en.wikipedia.org/wiki/The_Twelve_Days_of_Christmas_(song)
+Commit - Message should be "I've begun, here is the first section" and Your_Name. S
 
-Team E has been given "Head and Shoulders, Knees and Toes" https://en.wikipedia.org/wiki/Head,_Shoulders,_Knees_and_Toes
+Person 2 - type or cut and paste in the following - with spaces between each verse: (Wait until person 1 has completed their part and committed.)
 
-Team F has been given "If You're Happy and you Know it" https://en.wikipedia.org/wiki/If_You%27re_Happy_and_You_Know_It
+On the nineth day of Christmas my true love sent to me Nine ladies dancing Eight maids a-milking Seven swans a-swimming Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+On the eight day of Christmas my true love sent to me Eight maids a-milking Seven swans a-swimming Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+Person 3 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 and 2 have completed their part AND committed, you can begin.)
+
+On the seventh day of Christmas my true love sent to me Seven swans a-swimming Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+On the sixth day of Christmas my true love sent to me Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+Commit - Message shoud be "I'm finished!" and Your_name
+
+Person 4 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 has completed, you can begin.)
+
+On the second day of Christmas my true love sent to me Two turtle doves And a partridge in a pear tree.
+
+On the third day of Christmas my true love sent to me Three french hens Two turtle doves And a partridge in a pear tree.
+
+On the fourth day of Christmas my true love sent to me Twelve drummers drumming Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+Commit - Message should be "I've added the doves, hens and drummers" and Your_Name
+
+Person 5 - type or cut and paste in the following - with spaces between each verse: (Wait until person 2 have completed their part and person 3 has begun, they do not need to be finished.)
+
+On the fifth day of Christmas my true love sent to me Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+On the sixth day of Christmas my true love sent to me Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+Commit - Message should be "Person 5 has finished - we are done, maybe!" and Your_Name.
+
+Person 6: type or cut and paste in the following - with spaces between each verse: (Any time after person 1 has finished.)
+
+On the eleventh day of Christmas my true love sent to me Eleven pipers piping Ten lords a-leaping Nine ladies dancing Eight maids a-milking Seven swans a-swimming Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+On the twelth day of Christmas my true love sent to me Twelve drummers drumming Eleven pipers piping Ten lords a-leaping Nine ladies dancing Eight maids a-milking Seven swans a-swimming Six geese a-laying Five gold rings Four calling birds Three french hens Two turtle doves And a partridge in a pear tree.
+
+Commit - Message should be "I've really finished this song." and Your_Name.
