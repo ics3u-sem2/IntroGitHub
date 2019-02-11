@@ -1,6 +1,6 @@
 # IntroGitHub - ICS3U - Sem2
 
-ICS3U Sem2 2018-19 WCI - Ms. Harris Got to branches for individual team assignments - each team has been given a different song to input - merge and sort out following a specific set of instructions.
+ICS3U Sem2 2018-19 WCI - Ms. Harris added to branches the instructions for individual team assignments - each team has been given a different song to input - merge and sort out following a specific set of instructions.
 
 Team A has been given "There was an old lady" https://en.wikipedia.org/wiki/There_Was_an_Old_Lady_Who_Swallowed_a_Fly
 
