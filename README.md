@@ -1,59 +1,117 @@
- BranchE
-# IntroGitHub - ICS3U - Sem2 BranchE - Team E
+ BranchF
+# IntroGitHub - ICS3U - Sem2 - BranchF Team F
+=======
+
 ICS3U Sem2 2018-19 WCI - Ms. Harris
 
 Please see specific instructions in Google Classroom too.
 
-You have either 4 on your team. Please do this in the order given, and wait for the team member to complete and commit in some cases.
+BranchF
+You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
+
+Long ago, when I was in Girl Guides we did a slightly different variation than the one from Wikipedia that I gave you - here it is...
 
 Please do this ins the proper Order (this is imperative)
 
 Person 1 - type or cut and paste in the following - with spaces between each verse:
 
-Head, and shoulders, knees and toes, knees and toes, knees and toes! Head, and shoulders, knees and toes, eyes, ears, mouth and nose.
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
 
-Commit - Message should be "I've begun, here is the first section" and Your_Name.
+Commit - Message should be "I've begun, here is the first section" and Your_Name. Second instruction: When all team members have finished their parts, enter these two verses to end the song too.
+
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
+
+If you're happy and you know it, stomp your feet! If you're happy and you know it, stomp your feet! If you're happy and you know it, and you really want to show it; If you're happy and you know it, stomp your feet!
+
+If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout, 'Hooray'!
+
+If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
+
+If you're happy and you know it, slap your legs! If you're happy and you know it, slap your legs! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your legs!
+
+If you're happy and you know it, turn around! If you're happy and you know it, turn around! If you're happy and you know it, and you really want to show it; If you're happy and you know it, turn around!
+
+If you're happy and you know it, snap your fingers! If you're happy and you know it, snap your fingers! If you're happy and you know it, and you really want to show it; If you're happy and you know it, snap your fingers!
+
+If you're happy and you know it, nod your head! If you're happy and you know it, nod your head! If you're happy and you know it, and you really want to show it; If you're happy and you know it, nod your head!
+
+If you're happy and you know it, tap your toe! If you're happy and you know it, tap your toe! If you're happy and you know it, and you really want to show it; If you're happy and you know it, tap your toe!
+
+If you're happy and you know it, honk your nose! If you're happy and you know it, honk your nose! If you're happy and you know it, and you really want to show it; If you're happy and you know it, honk your nose!
+
+If you're happy and you know it, pat your head! If you're happy and you know it, pat your head! If you're happy and you know it, and you really want to show it; If you're happy and you know it, pat your head!
+
+If you're happy and you know it, shout 'We are'!" If you're happy and you know it, shout 'We are'!" If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout 'We are'!"
+
+Commit - Message should be "I've really finished this song." and Your_Name.
 
 Person 2 - type or cut and paste in the following - with spaces between each verse: (Wait until person 1 has completed their part and committed.)
 
-Head, and shoulders, back and belly, back and belly, back and belly! Head, and shoulders, back and belly, eyes, ears, mouth and nose.
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
 
-Person 3 - type or cut and paste in the following lines: (As long as person 1 and 2 have completed their part AND person 1 committed, you can begin.)
+If you're happy and you know it, stomp your feet! If you're happy and you know it, stomp your feet! If you're happy and you know it, and you really want to show it; If you're happy and you know it, stomp your feet!
 
-Belly and back, shoulders and head, shoulders and head, shoulders and head! Belly and back, shoulders and head, Nose, mouth, ears and eyes.
+If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout, 'Hooray'!
 
-Commit - Message should be "We've finished!"
+If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
 
-Person 4 - type or cut and paste in the following lines: (Wait until person 1 has completed their part committed.)
+If you're happy and you know it, slap your legs! If you're happy and you know it, slap your legs! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your legs!
 
-Toes and knees, shoulders and head, shoulders and head, shoulders and head! Toes and knees, shoulders and head, Nose, mouth, ears and eyes.
-=======
-# IntroGitHub - ICS3U - Sem2 - BranchD - Team D
+If you're happy and you know it, turn around! If you're happy and you know it, turn around! If you're happy and you know it, and you really want to show it; If you're happy and you know it, turn around!
 
-ICS3U Sem2 2018-19 WCI - Ms. Harris Please see specific instructions in Google Classroom too.
+If you're happy and you know it, snap your fingers! If you're happy and you know it, snap your fingers! If you're happy and you know it, and you really want to show it; If you're happy and you know it, snap your fingers!
 
-You have either 4 or 5 people on your team. If you have only four then the first person finished their part should complete person 5 as well. Please do this in the order given, and wait for the team member to complete and commit in some cases.
+If you're happy and you know it, nod your head! If you're happy and you know it, nod your head! If you're happy and you know it, and you really want to show it; If you're happy and you know it, nod your head!
 
-Please do this in the proper Order (this is imperative)
+If you're happy and you know it, tap your toe! If you're happy and you know it, tap your toe! If you're happy and you know it, and you really want to show it; If you're happy and you know it, tap your toe!
 
-Person 1 - type or cut and paste in the following lines, as lines:
+If you're happy and you know it, honk your nose! If you're happy and you know it, honk your nose! If you're happy and you know it, and you really want to show it; If you're happy and you know it, honk your nose!
 
-There was an old man named Michael Finn-egan, He had whiskers on his chin-igan, They fell out and grew back in-again, Poor old Michael Finnegan. Begin-again
+Person 3 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 and 2 have completed their part AND committed, you can begin.)
 
-Commit - Message should be "I've begun, here is the first section" and Your_Name.
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
 
-Person 2 - type or cut and paste in the following lines: (Wait until person 1 has completed their part and committed.)
+If you're happy and you know it, stomp your feet! If you're happy and you know it, stomp your feet! If you're happy and you know it, and you really want to show it; If you're happy and you know it, stomp your feet!
 
-There was an old man called Michael Finn-egan, Ran a race and tried to win again. He fell down and bumped his shin again. Poor old Michael Finnegan. Begin-again.
+If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout, 'Hooray'!
 
-Person 3 - type or cut and paste in the following lines: (As long as person 1 and 2 have completed their part AND person 1 committed, you can begin.)
+If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
 
-There was an old man called Michael Finn-egan, he grew fat and then grew thin again. Then he died and had to begin again. And that’s the end of Michael Finnegan.
+If you're happy and you know it, slap your legs! If you're happy and you know it, slap your legs! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your legs!
 
-Commit - Message shoud be "I'm finished!" and Your_name
+If you're happy and you know it, turn around! If you're happy and you know it, turn around! If you're happy and you know it, and you really want to show it; If you're happy and you know it, turn around!
 
-Person 4 - type or cut and paste in the following lines: (Wait until person 1 has completed their part.)
+Commit - Message shoud be "We've finished!"
 
-There was an old man called Michael Finn-egan, Climbed a tree and barked his shin-igan, Took off several yards of skin-igan, Poor old Michael Finnegan. Begin-again (repeat)
+Person 4 - type or cut and paste in the following - with spaces between each verse: (As long as person 1 has completed, you can begin.)
 
-Commit - Message should be "Person 4 has finished - we are done, maybe!" and Your_Name.
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
+
+If you're happy and you know it, stomp your feet! If you're happy and you know it, stomp your feet! If you're happy and you know it, and you really want to show it; If you're happy and you know it, stomp your feet!
+
+If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout, 'Hooray'!
+
+If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
+
+If you're happy and you know it, slap your legs! If you're happy and you know it, slap your legs! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your legs!
+
+If you're happy and you know it, turn around! If you're happy and you know it, turn around! If you're happy and you know it, and you really want to show it; If you're happy and you know it, turn around!
+
+If you're happy and you know it, snap your fingers! If you're happy and you know it, snap your fingers! If you're happy and you know it, and you really want to show it; If you're happy and you know it, snap your fingers!
+
+If you're happy and you know it, nod your head! If you're happy and you know it, nod your head! If you're happy and you know it, and you really want to show it; If you're happy and you know it, nod your head!
+
+Commit - Message should be "I've added fingers and head" and Your_Name
+
+Person 5 - type or cut and paste in the following - with spaces between each verse: (Wait until person 2 have completed their part and person 3 has begun, they do not need to be finished.)
+
+If you're happy and you know it, clap your hands! If you're happy and you know it, clap your hands! If you're happy and you know it, and you really want to show it; If you're happy and you know it, clap your hands!
+
+If you're happy and you know it, stomp your feet! If you're happy and you know it, stomp your feet! If you're happy and you know it, and you really want to show it; If you're happy and you know it, stomp your feet!
+
+If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, shout, 'Hooray'! If you're happy and you know it, and you really want to show it; If you're happy and you know it, shout, 'Hooray'!
+
+If you're happy and you know it, slap your knees! If you're happy and you know it, slap your knees! If you're happy and you know it, and you really want to show it; If you're happy and you know it, slap your knees!
+
+Commit - Message should be "Person 5 has finished - we are done, maybe!" and Your_Name.
+
